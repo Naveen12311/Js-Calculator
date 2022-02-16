@@ -1,0 +1,28 @@
+.btns{
+    padding: 10px;
+    margin: 10px;
+}
+.button{
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.screen{
+    height: 100px;
+    background: gainsboro;
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 40px;
+    text-align: end;
+}
+
+.calculator{
+    width: 315px;
+    background: aliceblue;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    top:100px;
+}
